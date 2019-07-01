@@ -7,4 +7,4 @@ end
 first_number = 12
 second_number = 4
 
-addition(first_number, second_number)
+sum = addition(first_number, second_number)
