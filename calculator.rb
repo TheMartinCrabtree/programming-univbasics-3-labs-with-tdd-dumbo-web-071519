@@ -1,5 +1,7 @@
 # Add your variables here
-def addition()
+def addition(first_number, second_number)
+  
+end
 
 
 first_number = 12
