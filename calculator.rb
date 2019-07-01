@@ -21,5 +21,5 @@ second_number = 4
 
 sum = addition(first_number, second_number)
 difference = subtraction(first_number, second_number)
-product = 
-quotient = 
+product = multiply(first_number, second_number)
+quotient = divide(first_number, second_number)
